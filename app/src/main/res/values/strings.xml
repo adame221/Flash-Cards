@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Android Rotate Cards</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="page_1">1/13</string>
+    <string name="page_2">2/13</string>
+    <string name="page_3">3/13</string>
+    <string name="page_4">4/13</string>
+    <string name="page_5">5/13</string>
+    <string name="page_6">6/13</string>
+    <string name="page_7">7/13</string>
+    <string name="page_8">8/13</string>
+    <string name="page_9">9/13</string>
+    <string name="page_10">10/13</string>
+    <string name="page_11">11/13</string>
+    <string name="page_12">12/13</string>
+    <string name="page_13">13/13</string>
+    <string name="question_alaska">What is the capital of Alaska?</string>
+    <string name="question_iowa">What is the capital of Iowa?</string>
+    <string name="question_minnesota">What is the capital of Minnesota?</string>
+    <string name="question_indiana">What is the capital of Indiana?</string>
+    <string name="question_michigan">What is the capital of Michigan?</string>
+    <string name="question_ohio">What is the capital of Ohio?</string>
+    <string name="question_illinois">What is the capital of Illinois?</string>
+    <string name="question_missouri">What is the capital of Missouri?</string>
+    <string name="question_northDakota">What is the capital of North Dakota?</string>
+    <string name="question_southDakota">What is the capital of South Dakota?</string>
+    <string name="question_kentucky">What is the capital of Kentucky?</string>
+    <string name="question_tennessee">What is the capital of Tennessee?</string>
+    <string name="question_maryland">What is the capital of Maryland?</string>
+    <string name="answer_alaska">Juneau</string>
+    <string name="answer_iowa">Des Moines</string>
+    <string name="answer_minnesota">Saint Paul</string>
+    <string name="answer_indiana">Indianapolis</string>
+    <string name="answer_michigan">Lansing</string>
+    <string name="answer_ohio">Columbus</string>
+    <string name="answer_illinois">Springfield</string>
+    <string name="answer_missouri">Jefferson City</string>
+    <string name="answer_northDakota">Bismarck</string>
+    <string name="answer_southDakota">Pierre</string>
+    <string name="answer_kentucky">Frankfort</string>
+    <string name="answer_tennessee">Nashville</string>
+    <string name="answer_maryland">Annapolis</string>
+</resources>
